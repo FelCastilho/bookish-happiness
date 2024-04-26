@@ -1,0 +1,17 @@
+.hero{
+    height: calc(100vh - 15vh);
+    background-image: url('../../assets/hero-banner.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+}
+
+.hero h1{
+    color: #016A3B;
+}
+
+.container-text{
+    margin: 0 auto;
+    width: 1100px;
+}
